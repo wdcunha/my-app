@@ -166,6 +166,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.exe
+*.pdb
+
+watchman
 
 # Windows shortcuts
 *.lnk

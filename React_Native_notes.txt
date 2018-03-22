@@ -1,2 +1,14 @@
 <><><>Tips of code/content:
 https://ant.design/docs/react/introduce
+
+<><><>Watchman instalation
+
+React Native docs:
+https://facebook.github.io/react-native/docs/getting-started.html
+
+Components pre-built:
+https://nativebase.io/
+
+
+---> added a constructor 
+--->
